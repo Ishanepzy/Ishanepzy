@@ -11,23 +11,14 @@
 ---
 
 ### 💻 Tech Stack
-<p align="left">
-  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
-  </a>&nbsp;&nbsp;
-
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" width="40"/>
-  </a>&nbsp;&nbsp;
-
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
-  </a>&nbsp;&nbsp;
-
-  <a href="https://learn.microsoft.com/sql/sql-server/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
-  </a>
-</p>
+<div align="left" style="display:flex; gap: 20px; align-items:center; flex-wrap: wrap;">
+  
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" style="display:inline-block;"/></a>&nbsp;&nbsp;
+<a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" width="40" style="display:inline-block;"/></a>&nbsp;&nbsp;
+<a href="https://www.postman.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" style="display:inline-block;"/></a>&nbsp;&nbsp;
+<a href="https://learn.microsoft.com/sql/sql-server/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" style="display:inline-block;"/></a>
+  
+</div>
 
 ---
 
