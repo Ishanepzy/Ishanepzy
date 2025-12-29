@@ -4,8 +4,8 @@
   <img src="https://komarev.com/ghpvc/?username=Ishanepzy&&style=flat-square&color=6FA4FC"/>
 </p>
   <span style="font-size:12px; line-height:1.2;">
- 🌱 I’m currently learning **dotnet and Git** <br>
- 🔭 I’m working on **small projects to improve my skills**
+ 🌱 I’m currently learning <b>dotnet</b> and <b>Git</b>. <br>
+ 🔭 I’m working on small projects to improve my skills.
   </span>
   
 ---
