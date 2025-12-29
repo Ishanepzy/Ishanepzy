@@ -1,11 +1,9 @@
-# Hi 👋, I am Ishan
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>, I am Ishan
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Ishanepzy&color=green"/>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+  <img src="https://komarev.com/ghpvc/?username=Ishanepzy&&style=flat-square&color=6FA4FC"/>
+
 </p>
-
-
 
 ---
 
@@ -27,5 +25,9 @@
 
 ## 📫 Contact Me at
  issann599@gmail.com
+
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=99999&color=6FA4FC&center=true&vCenter=true&width=450&lines=Thank+you+for+stopping+by."/>
 
 ---
