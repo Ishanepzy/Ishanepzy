@@ -5,7 +5,7 @@
 </p>
   <span style="font-size:12px; line-height:1.2;">
  🌱 I’m currently learning <b>dotnet</b> and <b>Git</b>. <br>
- 🔭 I’m working on small projects to improve my skills.
+ 🔭 I’m working on small projects to learn and improve my skills.
   </span>
   
 ---
