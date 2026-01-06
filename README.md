@@ -22,7 +22,7 @@
 
 ---
 
-#### 📫 Contact Me at issann599@gmail.com
+#### 📫 Contact me at issann599@gmail.com
 
 ---
 
